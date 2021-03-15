@@ -1,0 +1,16 @@
+D:\DummyProjects\SomeUsefulStuffInCSharp\bin\Debug\net5.0\SomeUsefulStuffInCSharp.exe
+D:\DummyProjects\SomeUsefulStuffInCSharp\bin\Debug\net5.0\SomeUsefulStuffInCSharp.deps.json
+D:\DummyProjects\SomeUsefulStuffInCSharp\bin\Debug\net5.0\SomeUsefulStuffInCSharp.runtimeconfig.json
+D:\DummyProjects\SomeUsefulStuffInCSharp\bin\Debug\net5.0\SomeUsefulStuffInCSharp.runtimeconfig.dev.json
+D:\DummyProjects\SomeUsefulStuffInCSharp\bin\Debug\net5.0\SomeUsefulStuffInCSharp.dll
+D:\DummyProjects\SomeUsefulStuffInCSharp\bin\Debug\net5.0\ref\SomeUsefulStuffInCSharp.dll
+D:\DummyProjects\SomeUsefulStuffInCSharp\bin\Debug\net5.0\SomeUsefulStuffInCSharp.pdb
+D:\DummyProjects\SomeUsefulStuffInCSharp\obj\Debug\net5.0\SomeUsefulStuffInCSharp.csprojAssemblyReference.cache
+D:\DummyProjects\SomeUsefulStuffInCSharp\obj\Debug\net5.0\SomeUsefulStuffInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DummyProjects\SomeUsefulStuffInCSharp\obj\Debug\net5.0\SomeUsefulStuffInCSharp.AssemblyInfoInputs.cache
+D:\DummyProjects\SomeUsefulStuffInCSharp\obj\Debug\net5.0\SomeUsefulStuffInCSharp.AssemblyInfo.cs
+D:\DummyProjects\SomeUsefulStuffInCSharp\obj\Debug\net5.0\SomeUsefulStuffInCSharp.csproj.CoreCompileInputs.cache
+D:\DummyProjects\SomeUsefulStuffInCSharp\obj\Debug\net5.0\SomeUsefulStuffInCSharp.dll
+D:\DummyProjects\SomeUsefulStuffInCSharp\obj\Debug\net5.0\ref\SomeUsefulStuffInCSharp.dll
+D:\DummyProjects\SomeUsefulStuffInCSharp\obj\Debug\net5.0\SomeUsefulStuffInCSharp.pdb
+D:\DummyProjects\SomeUsefulStuffInCSharp\obj\Debug\net5.0\SomeUsefulStuffInCSharp.genruntimeconfig.cache
